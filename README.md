@@ -13,4 +13,6 @@ This is how Git and GitHub works:
 git remote add origin git@github.com:/git-practice-project.git
 git branch -M main
 git push -u origin main
-
+8. Created and switched to a new branch named `feature-instructions`:
+git checkout -b feature-instructions
+9. Edited this README on the new branch.
